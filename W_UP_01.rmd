@@ -57,7 +57,7 @@ I can easily tell that the mean for the "skill" players have around 50 pushups. 
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
-The probability we get .0000009421 I conclude that "skill" players are doing alot more pushups than "line" players.
+The probability we get .0000009421 I conclude that "skill" players are doing alot more pushups than "line" players.  
 
 # Discussion and Conclusion
 
